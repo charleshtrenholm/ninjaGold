@@ -1,0 +1,67 @@
+
+
+#scorenav, #activities_header{
+    background-color: darkslategray;
+    color: white;
+}
+
+#scorenav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+#startover{
+    float: right;
+    margin-right: 20px;
+}
+
+.itemclick{
+    height: 150px;
+}
+
+h2{
+    text-align: center;
+    padding: 5px; 
+    margin-bottom: 0px;
+}
+h4{
+    text-align: center;
+}
+
+#activities{
+    height: 400px;
+    overflow: scroll;
+    background-image: linear-gradient(lightpink, lightgoldenrodyellow, lightgreen, lightseagreen);
+    margin-top: 0px;
+}
+
+.activitylog{
+    font-size: 30px;
+}
+
+.activitylog, .ugh{
+    margin-left: 20%;
+}
+
+input{
+    width: 100%;
+}
+
+.btn{
+    border-radius: 40px;
+    box-shadow: 2px 2px 0px black;
+}
+
+#farm{
+    background-color: lightpink
+}
+#house{
+    background-color: lightgreen;
+}
+#cave{
+    background-color: lightgoldenrodyellow;
+}
+#casino{
+    background-color: lightseagreen;
+}
